@@ -1,0 +1,28 @@
+.itemDetail {
+    width: 350px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    padding: 15px;
+    border: 1px solid #000;
+    margin: 10px;
+    border-radius: 8px;
+}
+
+.itemsDetail-buttons {
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+}
+
+.itemDetail-title {
+    text-align: center;
+}
+
+.itemDetail-description {
+    text-align: center;
+}
+
+.itemDetail-price{
+    text-align: center;
+}

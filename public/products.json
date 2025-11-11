@@ -1,0 +1,137 @@
+[
+    {
+        "id": 1,
+        "title": "Heladera No Frost 340L",
+        "description": "Heladera con freezer, tecnología No Frost y bajo consumo energético.",
+        "price": 485000,
+        "stock": 8,
+        "image": "src/assets/camara.png", 
+        "category": "Refrigeración"
+    },
+    {
+        "id": 2,
+        "title": "Lavarropas Automático 8kg",
+        "description": "Lavarropas con múltiples programas y función de lavado rápido.",
+        "price": 399000,
+        "stock": 12,
+        "image": "src/assets/camara.png",
+        "category": "Lavado"
+    },
+    {
+        "id": 3,
+        "title": "Microondas Digital 25L",
+        "description": "Microondas con grill, pantalla LED y 10 niveles de potencia.",
+        "price": 120000,
+        "stock": 20,
+        "image": "src/assets/camara.png",
+        "category": "Cocina"
+    },
+    {
+        "id": 4,
+        "title": "Cafetera Express 1.5L",
+        "description": "Cafetera con vaporizador de leche y diseño de acero inoxidable.",
+        "price": 95000,
+        "stock": 15,
+        "image": "src/assets/camara.png",
+        "category": "Pequeños Electrodomésticos"
+    },
+    {
+        "id": 5,
+        "title": "Pava Eléctrica Inoxidable 1.7L",
+        "description": "Pava eléctrica con apagado automático y base giratoria 360°.",
+        "price": 28000,
+        "stock": 25,
+        "image": "src/assets/camara.png",
+        "category": "Pequeños Electrodomésticos"
+    },
+    {
+        "id": 6,
+        "title": "Aspiradora Ciclónica 2000W",
+        "description": "Aspiradora sin bolsa con filtro HEPA y depósito lavable.",
+        "price": 87000,
+        "stock": 10,
+        "image": "src/assets/camara.png",
+        "category": "Limpieza"
+    },
+    {
+        "id": 7,
+        "title": "Smart TV 50'' 4K UHD",
+        "description": "Televisor inteligente con Wi-Fi, HDR10 y sistema operativo Android TV.",
+        "price": 620000,
+        "stock": 6,
+        "image": "src/assets/camara.png",
+        "category": "Electrónica"
+    },
+    {
+        "id": 8,
+        "title": "Licuadora de Alta Potencia 1200W",
+        "description": "Licuadora con vaso de vidrio y 5 velocidades.",
+        "price": 54000,
+        "stock": 18,
+        "image": "src/assets/camara.png",
+        "category": "Pequeños Electrodomésticos"
+    },
+    {
+        "id": 9,
+        "title": "Tostadora Inoxidable 2 Ranuras",
+        "description": "Tostadora con ajuste de temperatura y bandeja desmontable.",
+        "price": 22000,
+        "stock": 30,
+        "image": "src/assets/camara.png",
+        "category": "Pequeños Electrodomésticos"
+    },
+    {
+        "id": 10,
+        "title": "Ventilador de Pie 20''",
+        "description": "Ventilador con 3 velocidades y altura regulable.",
+        "price": 38000,
+        "stock": 16,
+        "image": "src/assets/camara.png",
+        "category": "Climatización"
+    },
+    {
+        "id": 11,
+        "title": "Horno Eléctrico 45L",
+        "description": "Horno eléctrico con timer y selector de temperatura hasta 250 °C.",
+        "price": 97000,
+        "stock": 9,
+        "image": "src/assets/camara.png",
+        "category": "Cocina"
+    },
+    {
+        "id": 12,
+        "title": "Plancha a Vapor 2200W",
+        "description": "Plancha con suela cerámica y función antigoteo.",
+        "price": 26000,
+        "stock": 22,
+        "image": "src/assets/camara.png",
+        "category": "Ropa y Cuidado Personal"
+    },
+    {
+        "id": 13,
+        "title": "Aire Acondicionado Split 3000W",
+        "description": "Aire acondicionado frío/calor con control remoto y función ECO.",
+        "price": 670000,
+        "stock": 7,
+        "image": "src/assets/camara.png",
+        "category": "Climatización"
+    },
+    {
+        "id": 14,
+        "title": "Batidora Planetaria 800W",
+        "description": "Batidora con bol de acero inoxidable y 6 velocidades.",
+        "price": 85000,
+        "stock": 14,
+        "image": "src/assets/camara.png",
+        "category": "Cocina"
+    },
+    {
+        "id": 15,
+        "title": "Freidora de Aire 5L",
+        "description": "Freidora de aire sin aceite con control digital de temperatura.",
+        "price": 98000,
+        "stock": 13,
+        "image": "src/assets/camara.png",
+        "category": "Cocina"
+    }
+]  
