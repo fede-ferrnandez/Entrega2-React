@@ -9,7 +9,6 @@ function Navbar() {
             <nav className="navbar">
                 <ul className="links">
                     <li className="link">Home</li>
-                    <li className="link">Categories</li>
                     <li className="link"> <NavLink to={"/contact"}>Contact</NavLink> </li>
                 </ul>
                 <CartWidget/>
